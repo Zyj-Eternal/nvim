@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/kite/.config/coc'
+let g:netrw_dirhist_1='/home/kite/.config/nvim/plugged/coc.nvim'
+let g:netrw_dirhist_0='/home/kite/application/python/Flask_Web:åŸºäºpythonçš„webåº”ç”¨å¼€å‘/venv/project/templates'
+let g:netrw_dirhist_9='/home/kite/application/python/Flask_Web:åŸºäºpythonçš„webåº”ç”¨å¼€å‘/venv/project/static'
+let g:netrw_dirhist_8='/home/kite'
+let g:netrw_dirhist_7='/home/kite/test/dwm-6.2'
+let g:netrw_dirhist_6='/home/kite/scripts/dwmbar-functions'
+let g:netrw_dirhist_5='/home/kite/documents/Python¦-ğ-¦Ó¦¦ú¿Á+3¦µú®PDF©¯ÃÕ+·-Ûi¹Íğ+-¦µ.pdf'
+let g:netrw_dirhist_4='/home/kite/.config/nvim'
+let g:netrw_dirhist_3='/home/kite/application/sh/project'

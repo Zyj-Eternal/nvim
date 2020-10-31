@@ -1,0 +1,45 @@
+snippet fin "for something in"
+for ${1:var} in ${2:list}
+do
+	${3:commands}
+done
+endsnippet
+
+snippet if "if .. then"
+if ${1:expertion}
+then
+	${2:commands}
+fi
+endsnippet
+
+snippet case "case"
+case ${1:something} in
+${2:something})
+	${3:commands}
+${4:something})
+	${5:commands}
+*)
+	${6:commands}
+esac
+endsnippet
+
+snippet for "for"
+for (( variable assignment ; condition ; iteration process ))
+do
+	${1:commands}
+done
+endsnippet
+
+snippet while "while"
+while ${1:test commands}
+do
+	${2:other commands}
+done
+endsnippet
+
+snippet until "until"
+until ${1:test commands}
+do
+	${2:other commands}
+done
+endsnippet
